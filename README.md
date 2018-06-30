@@ -3,14 +3,14 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Contributing](#contributing)
+* [Link](#link)
 
 ## Instructions
+1. Go to https://mlungiseleli-notshokovu.github.io/Pixel-Art-Maker-Project/
+2. Choose your desired grid height and width, then click the "submit" button. Cells with the specified height and width will appear under the "Design Canvas" heading
+3. Pick a color you wish to use
+4. Click a cell in the grid to fill that cell with the chosen color.
 
-To get started, open `designs.js` and start building out the app's functionality.
+## Link
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+https://mlungiseleli-notshokovu.github.io/Pixel-Art-Maker-Project/
